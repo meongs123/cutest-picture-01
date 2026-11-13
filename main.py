@@ -1,4 +1,4 @@
-# The picture ships in the repo as art.jpg (a baby capybara hugging a duckling);
+# The picture ships in the repo as art.jpg (a baby fox cub hugging a duckling);
 # the program only copies it to the output.
 import os
 import shutil
